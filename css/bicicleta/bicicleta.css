@@ -115,24 +115,3 @@
     grid-template-columns: 1fr;
   }
 }
-
-.seguro-bg {
-  background-color: var(--cor-11);
-  box-shadow: inset var(--cor-0) 60px;
-}
-
-.seguro {
-  display: flex;
-  grid-template-columns: 1fr 1fr;
-  gap: 40px;
-  padding: 60px 0;
-}
-
-.seguro h2 {
-  margin-bottom: 24px;
-}
-
-.seguro p {
-  margin-bottom: 24px;
-  max-width: 50ch;
-}
